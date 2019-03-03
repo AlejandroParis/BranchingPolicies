@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Branching Policies
 
-You can use the [editor on GitHub](https://github.com/AlejandroParis/BranchingPoliciesResearch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“I am Alejandro París, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Ricard Pillosu.”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The concept 
+
+### Benefits and drawbacks
+
+### Gitflow Structure
+
+### QA with Gitflow
+
+### Appveyor
+
 
 ### Markdown
 
@@ -13,7 +22,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+
 
 - Bulleted
 - List
@@ -28,10 +37,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Sources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlejandroParis/BranchingPoliciesResearch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+
+paris.alejandro1@gmail.com
