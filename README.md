@@ -1,12 +1,18 @@
 ## Branching Policies
 
-“I am Alejandro París, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Ricard Pillosu.”
+“I am [Alejandro París](https://www.linkedin.com/in/alejandro-par%C3%ADs-g%C3%B3mez-05a675129/), student of the
+[Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
+This content is generated for the second year’s
+subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
 ### The concept 
 
 ### Benefits and drawbacks
 
 ### Gitflow Structure
+
+<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
+align="center"
 
 ### QA with Gitflow
 
