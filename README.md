@@ -8,7 +8,7 @@
 
 ### Gitflow Structure
 
-![logo](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png width="383" height="508")
+![logo](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png? raw=true)
 _logo._
 
 
