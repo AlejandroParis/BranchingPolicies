@@ -107,9 +107,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - [Azure Pull Request](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=new-nav#complete-the-pull-request)
 - [GitHub Branches](https://help.github.com/en/articles/about-protected-branches)
 - [DevOpsNet](https://devopsnet.com/2012/11/01/exciting-branching/)
-. [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
-. [IT Hare](http://ithare.com/version-control-branching-for-gamedev/)
-. [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+- [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
+- [IT Hare](http://ithare.com/version-control-branching-for-gamedev/)
+- [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
 
 # Contact
 
