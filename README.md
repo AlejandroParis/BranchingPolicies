@@ -30,7 +30,7 @@ The way regular workers interact with these main branches is by branching off fr
 
 # Gitflow Structure
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png){:height="500px" width="500px"}
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png?v=500&s=500)
 
 ## Master and Develop
 
