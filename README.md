@@ -1,4 +1,4 @@
-## Branching Policies
+# Branching Policies
 
 “I am [Alejandro París](https://www.linkedin.com/in/alejandro-par%C3%ADs-g%C3%B3mez-05a675129/), student of the
 [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
@@ -28,7 +28,7 @@ The administrator is the only user with permission to allow modifications to the
 
 The way regular workers interact with these main branches is by branching off from develop and creating their own fature branches, in which they can develop their fature and merge it back with the main develop branch (by creating a pull request) after it is finished and has passed all needed verifications. By using this method, we avoid any danger to the project while still keeping all flexibility that a worker may need in his local codebase since he can still make modifications to the original code while not affecting the rest of the development team.
 
-### Gitflow Structure
+# Gitflow Structure
 
 <img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
 
@@ -73,7 +73,7 @@ develop and master
 Hotfix branches are very much like release branches in that they are also meant to prepare for a new production release, albeit unplanned. They arise from the necessity to act immediately upon an undesired state of a live production version. When a critical bug in a production version must be resolved immediately, a hotfix branch may be branched off from the corresponding tag on the master branch that marks the production version.
 The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.
 
-### Appveyor
+# Appveyor
 
 
 
