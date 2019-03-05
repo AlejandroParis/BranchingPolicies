@@ -8,6 +8,8 @@
 
 ### Gitflow Structure
 
+![](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png)
+
 ### QA with Gitflow
 
 ### Appveyor
