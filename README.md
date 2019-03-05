@@ -7,12 +7,20 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 ### The concept 
 
+Branching policies are followed by rules that are established to maintain control over the project. They help to organize, to work in parallel and to solve any problem related to the structure of the project in a simpler way.
+Good branching policies together with a good team will do a better job.
+
+To know the advantages of a good branch policy, we will focus on two forms of work.
+
+The Trunk-Based Development in which the entire team works in the same branch and only has the branch of releases separate, therefore when someone checks-in with wrong code everyone must wait for it to fix it in order to continue working.
+
+<img src= "BranchingPoliciesResearch/images/trunk-based.png" width="250" height="250">
+
 ### Benefits and drawbacks
 
 ### Gitflow Structure
 
 <img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
-align="center"
 
 ### QA with Gitflow
 
