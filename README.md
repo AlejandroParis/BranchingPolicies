@@ -32,7 +32,7 @@ The way regular workers interact with these main branches is by branching off fr
 
 <img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
 
-## Master and Develop
+### Master and Develop
 
 The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
 
@@ -40,7 +40,7 @@ The Gitflow structure has two parallel and infinite branches: the master branch 
 
 These two branches are the only ones that remain from the beginning of development until the end.
 
-## Feature
+### Feature
 
 May branch off from:
 develop
@@ -51,7 +51,7 @@ develop
 
 The feature branches are essentially the branches in which the developers work in their respective fields to develop the different parts of the release in which they are working at that moment. To avoid problems when doing the merge the feature branches must be kept updated with the information of the develop branch.
 
-## Release
+### Release
 
 May branch off from:               							
 develop											
@@ -62,7 +62,7 @@ develop and master
 
 Release branches support preparation of a new production release.En el momento en que todo lo que debe contener la release está en la rama develop se genera esta nueva rama para acabar de arreglar los últimos bugs y preparar toda la metadata de la release (version number, build dates,...). De esta manera en la rama develop se puede continuar trabajando para la siguiente release.
 
-## Hotfix 
+### Hotfix 
 May branch off from:
 master
 Must merge back into:
