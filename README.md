@@ -5,7 +5,7 @@
 This content is generated for the second year’s
 subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
-### The concept 
+# The concept 
 
 Branching policies are followed by rules that are established to maintain control over the project. They help to organize, to work in parallel and to solve any problem related to the structure of the project in a simpler way.
 Good branching policies together with a good team will do a better job.
