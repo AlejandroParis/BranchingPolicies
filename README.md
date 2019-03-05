@@ -14,7 +14,7 @@ To know the advantages of a good branch policy, we will focus on two forms of wo
 
 The Trunk-Based Development in which the entire team works in the same branch and only has the branch of releases separate, therefore when someone checks-in with wrong code everyone must wait for it to fix it in order to continue working.
 
-![trunk](BranchingPoliciesResearch/images/trunk-based.png)
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/trunk-based.png)
 
 On the other hand we have the Feature Branching Development in which all the features are made external to the main branch and are integrated at the time they are completed. Therefore, the problem presented by the trunk-based is avoided.
 In spite of avoiding this problem other inconveniences arise as they are when lengthening a long time a feature branch if it does not stay updated with the main branch can end up giving problems when trying to join them.
