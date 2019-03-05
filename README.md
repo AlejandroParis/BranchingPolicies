@@ -36,7 +36,7 @@ The way regular workers interact with these main branches is by branching off fr
 
 The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
 
-<img src= "BranchingPoliciesResearch/images/main-branches.png" width="250" height="250">
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png)
 
 These two branches are the only ones that remain from the beginning of development until the end.
 
@@ -47,7 +47,7 @@ develop
 Must merge back into:
 develop
 
-<img src= "BranchingPoliciesResearch/images/feature-merge.png" width="250" height="250">
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.pn)
 
 The feature branches are essentially the branches in which the developers work in their respective fields to develop the different parts of the release in which they are working at that moment. To avoid problems when doing the merge the feature branches must be kept updated with the information of the develop branch.
 
@@ -58,7 +58,7 @@ develop
 Must merge back into:									
 develop and master
 
-<img src= "BranchingPoliciesResearch/images/release-branch.png" width="250" height="250">
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/release-branch.png)
 
 Release branches support preparation of a new production release.En el momento en que todo lo que debe contener la release está en la rama develop se genera esta nueva rama para acabar de arreglar los últimos bugs y preparar toda la metadata de la release (version number, build dates,...). De esta manera en la rama develop se puede continuar trabajando para la siguiente release.
 
@@ -68,7 +68,7 @@ master
 Must merge back into:
 develop and master 
 
-<img src= "BranchingPoliciesResearch/images/hotfix-branches.png" width="250" height="250">
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/hotfix-branches.png)
 
 Hotfix branches are very much like release branches in that they are also meant to prepare for a new production release, albeit unplanned. They arise from the necessity to act immediately upon an undesired state of a live production version. When a critical bug in a production version must be resolved immediately, a hotfix branch may be branched off from the corresponding tag on the master branch that marks the production version.
 The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.
@@ -79,7 +79,7 @@ By connecting Appveyor with your Github account and giving it access to the proj
 
 As this is not what we are looking for, we can configure Appveyor to do the builds only when a commit is made in some specific branches such as develop, releases, master and hotfix, making the QA team easier to work with.
 
-<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/appveyor.png">
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/appveyor.png)
 
 # Sources
 
