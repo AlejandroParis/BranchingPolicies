@@ -22,6 +22,12 @@ An example of this branch policy is Gitflow.
 
 <img src= "BranchingPoliciesResearch/images/gitflow-present.png" width="250" height="250">
 
+The need for this kind of ruling arises from the fact that organising a group of people to work together, for the same standards, and make it all work is almost impossible with no clear instructions on how to act in every situation that may come up. Having this kind of instructions and rules prevents repository damage, since the main branches are protected and can only be manipulated by the administrator.
+
+The administrator is the only user with permission to allow modifications to the main branches such as pull requests and merges. There might be more than one administrator and even be more that one kind of administrator (for example, the Lead Programmer should only manage develop and hotfixes while the QA Lead manages releases and master). You can control all these settings on the Github website.
+
+The way regular workers interact with these main branches is by branching off from develop and creating their own fature branches, in which they can develop their fature and merge it back with the main develop branch (by creating a pull request) after it is finished and has passed all needed verifications. By using this method, we avoid any danger to the project while still keeping all flexibility that a worker may need in his 
+
 ### Benefits and drawbacks
 
 ### Gitflow Structure
