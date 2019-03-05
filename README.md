@@ -47,7 +47,7 @@ develop
 Must merge back into:
 develop
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.pn)
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png)
 
 The feature branches are essentially the branches in which the developers work in their respective fields to develop the different parts of the release in which they are working at that moment. To avoid problems when doing the merge the feature branches must be kept updated with the information of the develop branch.
 
