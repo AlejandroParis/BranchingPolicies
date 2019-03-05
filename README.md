@@ -75,6 +75,10 @@ The essence is that work of team members (on the develop branch) can continue, w
 
 # AppVeyor
 
+By connecting Appveyor with your Github account and giving it access to the project, it will generate a build for each commit that is made in the repository.
+
+As this is not what we are looking for, we can configure Appveyor to do the builds only when a commit is made in some specific branches such as develop, releases, master and hotfix, making the QA team easier to work with.
+
 <img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/appveyor.png">
 
 # Sources
@@ -86,7 +90,7 @@ The essence is that work of team members (on the develop branch) can continue, w
 - [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 - [IT Hare](http://ithare.com/version-control-branching-for-gamedev/)
 - [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-- [AppVeyor](https://www.appveyor.com/docs/)
+- [AppVeyor](https://www.appveyor.com/docs/branches/)
 # Contact
 
 paris.alejandro1@gmail.com
