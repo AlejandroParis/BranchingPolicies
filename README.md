@@ -8,7 +8,9 @@
 
 ### Gitflow Structure
 
-<img src= "https://github.com/hot-dog-games/Project-2/blob/wiki/Wiki/Media/Images/Home_and_Original_Game/marc_image.jpg" width="383" height="508">
+![logo](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png width="383" height="508")
+_logo._
+
 
 ### QA with Gitflow
 
