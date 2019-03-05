@@ -20,7 +20,7 @@ On the other hand we have the Feature Branching Development in which all the fea
 In spite of avoiding this problem other inconveniences arise as they are when lengthening a long time a feature branch if it does not stay updated with the main branch can end up giving problems when trying to join them.
 An example of this branch policy is Gitflow.
 
-<img src= "BranchingPoliciesResearch/images/gitflow-present.png" width="250" height="250">
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow-present.png)
 
 The need for this kind of ruling arises from the fact that organising a group of people to work together, for the same standards, and make it all work is almost impossible with no clear instructions on how to act in every situation that may come up. Having this kind of instructions and rules prevents repository damage, since the main branches are protected and can only be manipulated by the administrator.
 
@@ -30,7 +30,7 @@ The way regular workers interact with these main branches is by branching off fr
 
 # Gitflow Structure
 
-<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png)
 
 ## Master and Develop
 
