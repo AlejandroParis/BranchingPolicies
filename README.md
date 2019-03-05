@@ -75,7 +75,7 @@ The essence is that work of team members (on the develop branch) can continue, w
 
 # AppVeyor
 
-
+<img src= "BranchingPoliciesResearch/images/appveyor.png">
 
 # Sources
 
@@ -86,7 +86,7 @@ The essence is that work of team members (on the develop branch) can continue, w
 - [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 - [IT Hare](http://ithare.com/version-control-branching-for-gamedev/)
 - [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-
+- [AppVeyor](https://www.appveyor.com/docs/)
 # Contact
 
 paris.alejandro1@gmail.com
