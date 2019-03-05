@@ -12,7 +12,8 @@ subject Project 2, under supervision of lecturer
 
 ### Gitflow Structure
 
-![](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png)
+<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
+align="center"
 
 ### QA with Gitflow
 
