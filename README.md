@@ -30,13 +30,13 @@ The way regular workers interact with these main branches is by branching off fr
 
 # Gitflow Structure
 
-<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png" width="508" height="575">
+<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png" width="490" height="575">
 
 ## Master and Develop
 
 The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
 
-<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png" width="508" height="575">
+<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png" width="450" height="575">
 
 These two branches are the only ones that remain from the beginning of development until the end.
 
@@ -47,7 +47,7 @@ develop
 Must merge back into:
 develop
 
-<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png" width="508" height="575">
+<img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png" width="400" height="575">
 
 The feature branches are essentially the branches in which the developers work in their respective fields to develop the different parts of the release in which they are working at that moment. To avoid problems when doing the merge the feature branches must be kept updated with the information of the develop branch.
 
