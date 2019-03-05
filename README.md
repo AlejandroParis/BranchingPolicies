@@ -14,13 +14,13 @@ To know the advantages of a good branch policy, we will focus on two forms of wo
 
 The Trunk-Based Development in which the entire team works in the same branch and only has the branch of releases separate, therefore when someone checks-in with wrong code everyone must wait for it to fix it in order to continue working.
 
-![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/trunk-based.png)
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/master/images/trunk-based.png)
 
 On the other hand we have the Feature Branching Development in which all the features are made external to the main branch and are integrated at the time they are completed. Therefore, the problem presented by the trunk-based is avoided.
 In spite of avoiding this problem other inconveniences arise as they are when lengthening a long time a feature branch if it does not stay updated with the main branch can end up giving problems when trying to join them.
 An example of this branch policy is Gitflow.
 
-![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow-present.png)
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow-present.png)
 
 The need for this kind of ruling arises from the fact that organising a group of people to work together, for the same standards, and make it all work is almost impossible with no clear instructions on how to act in every situation that may come up. Having this kind of instructions and rules prevents repository damage, since the main branches are protected and can only be manipulated by the administrator.
 
@@ -30,7 +30,7 @@ The way regular workers interact with these main branches is by branching off fr
 
 # Gitflow Structure
 
-![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png)
+![trunk](https://github.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png)
 
 ## Master and Develop
 
