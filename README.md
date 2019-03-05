@@ -75,7 +75,7 @@ The essence is that work of team members (on the develop branch) can continue, w
 
 # AppVeyor
 
-<img src= "BranchingPoliciesResearch/images/appveyor.png">
+<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/appveyor.png">
 
 # Sources
 
