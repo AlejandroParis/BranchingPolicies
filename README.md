@@ -8,8 +8,7 @@
 
 ### Gitflow Structure
 
-![logo](https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png? raw=true)
-_logo._
+<img src= "https://github.com/AlejandroParis/BranchingPoliciesResearch/blob/master/images/gitflow.png" width="250" height="250">
 
 
 ### QA with Gitflow
