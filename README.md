@@ -30,13 +30,13 @@ The way regular workers interact with these main branches is by branching off fr
 
 # Gitflow Structure
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png)
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png =500x500)
 
 ## Master and Develop
 
 The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png)
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png=500x500)
 
 These two branches are the only ones that remain from the beginning of development until the end.
 
@@ -47,7 +47,7 @@ develop
 Must merge back into:
 develop
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png)
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png=500x500)
 
 The feature branches are essentially the branches in which the developers work in their respective fields to develop the different parts of the release in which they are working at that moment. To avoid problems when doing the merge the feature branches must be kept updated with the information of the develop branch.
 
@@ -68,7 +68,7 @@ master
 Must merge back into:
 develop and master 
 
-![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/hotfix-branches.png)
+![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/hotfix-branches.png=500x500)
 
 Hotfix branches are very much like release branches in that they are also meant to prepare for a new production release, albeit unplanned. They arise from the necessity to act immediately upon an undesired state of a live production version. When a critical bug in a production version must be resolved immediately, a hotfix branch may be branched off from the corresponding tag on the master branch that marks the production version.
 The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.
