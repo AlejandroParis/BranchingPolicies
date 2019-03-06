@@ -43,8 +43,11 @@ These two branches are the only ones that remain from the beginning of developme
 ## Feature
 
 May branch off from:
+
 develop
+
 Must merge back into:
+
 develop
 
 <img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png" width="300" height="575">
