@@ -12,7 +12,7 @@ Good branching policies together with a good team will do a better job.
 
 To see the advantages of branch policies we will see two ways of working one with a light branch policy and another with a branch policy that is currently used by most companies in the industry.
 
-The Trunk-Based Development in which the entire team works in the same branch and only has the branch of releases separate, therefore when someone checks-in with wrong code everyone must wait for it to fix it in order to continue working.
+The Trunk-Based Development in which the entire team works in the same branch and only has the branch of releases separate, therefore when someone checks-in with wrong code everyone must wait for it to fix it in order to continue working. This is a policy that used to be used but that has been outdated by the Feature Branching Development
 
 ![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/trunk-based.png)
 
