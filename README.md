@@ -66,7 +66,7 @@ Must merge back into:
 
 ![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/release-branch.png)
 
-Release branches support preparation of a new production release.En el momento en que todo lo que debe contener la release está en la rama develop se genera esta nueva rama para acabar de arreglar los últimos bugs y preparar toda la metadata de la release (version number, build dates,...). De esta manera en la rama develop se puede continuar trabajando para la siguiente release.
+Release branches support preparation of a new production release. In the moment in which everything that should have the release is in the develop branch, the release branch is created to finish fixing the last errors and to prepare all the metadata of the launch (number of version, dates of compilation, ...) . In this way in develop you can continue working for the next release.
 
 ## Hotfix 
 May branch off from:
