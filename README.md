@@ -7,7 +7,7 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 # The concept 
 
-Branching policies are followed by rules that are established to maintain control over the project. They help to organize, to work in parallel and to solve any problem related to the structure of the project in a simpler way.
+Branching policies are rules that are established to maintain control over the project. They help to organize, to work in parallel and to solve any problem related to the structure of the project in a simpler way.
 Good branching policies together with a good team will do a better job.
 
 To see the advantages of branch policies we will see two ways of working one with a light branch policy and another with a branch policy that is currently used by most companies in the industry.
@@ -18,7 +18,7 @@ The Trunk-Based Development in which the entire team works in the same branch an
 
 On the other hand we have the Feature Branching Development in which all the features are made external to the main branch and are integrated at the time they are completed. Therefore, the problem presented by the trunk-based is avoided.
 In spite of avoiding this problem other inconveniences arise as they are when lengthening a long time a feature branch if it does not stay updated with the main branch can end up giving problems when trying to join them.
-An example of this branch policy is Gitflow.
+An example of this branch policy is Git Flow.
 
 ![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow-present.png)
 
@@ -28,13 +28,13 @@ The administrator is the only user with permission to allow modifications to the
 
 The way regular workers interact with these main branches is by branching off from develop and creating their own fature branches, in which they can develop their fature and merge it back with the main develop branch (by creating a pull request) after it is finished and has passed all needed verifications. By using this method, we avoid any danger to the project while still keeping all flexibility that a worker may need in his local codebase since he can still make modifications to the original code while not affecting the rest of the development team.
 
-# Gitflow Structure
+# Git Flow Structure
 
 <img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/gitflow.png" width="490" height="575">
 
 ## Master and Develop
 
-The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
+The Gitflow structure has two parallel and infinite branches: the master branch that will be updated with only the main stable versions of the project and the develop branch in which the development will progress and we will always be able to find the latest version of the project in which we are working.
 
 <img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/main-branches.png" width="450" height="575">
 
