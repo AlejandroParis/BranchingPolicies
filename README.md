@@ -44,11 +44,11 @@ These two branches are the only ones that remain from the beginning of developme
 
 May branch off from:
 
-develop
+**develop**
 
 Must merge back into:
 
-develop
+**develop**
 
 <img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/feature-branches.png" width="300" height="575">
 
@@ -56,10 +56,13 @@ The feature branches are essentially the branches in which the developers work i
 
 ## Release
 
-May branch off from:               							
-develop											
-Must merge back into:									
-develop and master
+May branch off from:
+
+**develop**			
+
+Must merge back into:
+
+**develop and master**
 
 ![trunk](https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/release-branch.png)
 
@@ -67,9 +70,12 @@ Release branches support preparation of a new production release.En el momento e
 
 ## Hotfix 
 May branch off from:
-master
+
+**master**
+
 Must merge back into:
-develop and master 
+
+**develop and master** 
 
 <img src="https://raw.githubusercontent.com/AlejandroParis/BranchingPoliciesResearch/master/images/hotfix-branches.png" width="508" height="575">
 
